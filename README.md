@@ -43,7 +43,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | KAMING SUN                        |                    
+|       ✅       | Nekopoi                           |
 
 ket : ✅ : aktif
 
